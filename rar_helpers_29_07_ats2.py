@@ -13,7 +13,7 @@ N_CONS = {
     "ats": {
         "bare": 5,
         "normal": 100,
-        "truncated": 2,
+        "truncated": 3,
     },
     "resonator_b": {
         "bare": 30,
